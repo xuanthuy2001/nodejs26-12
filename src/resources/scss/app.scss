@@ -1,0 +1,22 @@
+// "watch": "src/resources/scss/app.scss src/public/css/app.css",
+
+// src/resources/scss/app.scss:   Input
+// src/public/css/app.css",:  output: khi viets file này sẽ tự động tạo ra 1 file.css
+// để chạy chương trình dùng lệnh :      npm run watch 
+
+// khong bao gioviet code vao fil app.css
+
+// chi viet vao app.scss
+
+// -w  : tu dong run 
+
+
+//    "watch": "node-sass -w src/resources/scss -o src/public/css"
+
+// khi chi viet folder thi se luu va chay duoc o bat ki file nao 
+
+// -o : noi ro la --output
+
+@import "variables";
+.search-form{
+}
